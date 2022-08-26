@@ -6,22 +6,22 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
-    title: "Quiz App",
-    cardImage: "assets/images/project-page/quiz.jpg",
-    description: "A quiz app built using basic react.",
+    title: "Mirror And Leech Bot",
+    cardImage: "https://telegra.ph/file/1542ec3a642443186f86d.jpg",
+    description: "A Telegram Bot To Mirror And Leech.",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
-    Previewlink: "",
-    Githublink: "",
+    Previewlink: "https://t.me/admirror",
+    Githublink: "https://github.com/NetworkChukka/Anonymous-mirror-and-leech-bot",
   },
   {
-    title: "Chess Engine",
-    cardImage: "assets/images/project-page/chess.jpg",
-    description: "A chess engine for a popular game dev engine.",
+    title: "Telegraph Uploader Bot",
+    cardImage: "https://telegra.ph/file/f7b274093a5314722f796.jpg",
+    description: "A Telegram Bot To Upload Media to telegra.ph.",
     tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
-    Previewlink: "",
-    Githublink: "",
+    Previewlink: "https://t.me/teleupper_bot",
+    Githublink: "https://github.com/NetworkChukka/Telegraph-Uploader-bot",
   },
-  {
+  /*{
     title: "Flappy Bird",
     cardImage: "assets/images/project-page/flappybird.png",
     description: "Flappy bird game built using React.js",
@@ -108,7 +108,7 @@ const projects = [
       "https://camo.githubusercontent.com/888e388801f947dec7c3d843942c277af25fe2b1aed1821542c4e711f210312a/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63332f507974686f6e2d6c6f676f2d6e6f746578742e7376672f37363870782d507974686f6e2d6c6f676f2d6e6f746578742e7376672e706e67",
     Previewlink: "",
     Githublink: "",
-  },
+  },*/
 ];
 
 // function for rendering project cards data
